@@ -1,4 +1,9 @@
-package blackjack
+package blackjack.blackjack
+
+import blackjack.participant.GameParticipantDealer
+import blackjack.participant.GameParticipantPlayer
+import blackjack.participant.GameParticipants
+import blackjack.GamePlayer
 
 interface GameBlackjack {
 

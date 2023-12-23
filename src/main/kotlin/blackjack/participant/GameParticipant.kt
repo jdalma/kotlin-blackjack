@@ -1,6 +1,7 @@
-package blackjack
+package blackjack.participant
 
-import blackjack.GameBlackjack.Companion.BLACKJACK_MAX_SCORE
+import blackjack.card.Card
+import blackjack.blackjack.GameBlackjack.Companion.BLACKJACK_MAX_SCORE
 
 abstract class GameParticipant(
     val name: String,

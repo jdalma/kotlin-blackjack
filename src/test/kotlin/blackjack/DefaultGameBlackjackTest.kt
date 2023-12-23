@@ -1,5 +1,12 @@
 package blackjack
 
+import blackjack.blackjack.DefaultGameBlackjack
+import blackjack.card.Card
+import blackjack.card.CardShuffleStrategy
+import blackjack.card.GameCardDealer
+import blackjack.participant.GameParticipantDealer
+import blackjack.participant.GameParticipantPlayer
+import blackjack.participant.GameParticipants
 import io.kotest.core.spec.style.BehaviorSpec
 import io.kotest.matchers.shouldBe
 

@@ -1,4 +1,4 @@
-package blackjack
+package blackjack.participant
 
 data class GameParticipants(
     val players: List<GameParticipantPlayer>,

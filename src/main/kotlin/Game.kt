@@ -1,9 +1,9 @@
-import blackjack.Card
-import blackjack.CardShuffleStrategy
-import blackjack.DefaultGameBlackjack
-import blackjack.GameBlackjack
-import blackjack.GameCardDealer
-import blackjack.GameParticipants
+import blackjack.card.Card
+import blackjack.card.CardShuffleStrategy
+import blackjack.blackjack.DefaultGameBlackjack
+import blackjack.blackjack.GameBlackjack
+import blackjack.card.GameCardDealer
+import blackjack.participant.GameParticipants
 import blackjack.GamePlayer
 import blackjack.InputOutputStrategy
 import blackjack.Message

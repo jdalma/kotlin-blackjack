@@ -1,5 +1,6 @@
 package blackjack
 
+import blackjack.participant.GameParticipant
 import view.Input
 import view.Output
 

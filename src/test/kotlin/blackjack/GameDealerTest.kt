@@ -1,5 +1,8 @@
 package blackjack
 
+import blackjack.card.Card
+import blackjack.card.CardShuffleStrategy
+import blackjack.card.GameCardDealer
 import io.kotest.assertions.throwables.shouldThrow
 import io.kotest.core.spec.style.BehaviorSpec
 import io.kotest.matchers.shouldBe

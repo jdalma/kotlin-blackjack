@@ -1,4 +1,6 @@
-package blackjack
+package blackjack.participant
+
+import blackjack.card.Card
 
 class GameParticipantPlayer(
     name: String,

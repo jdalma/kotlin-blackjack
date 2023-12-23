@@ -1,4 +1,6 @@
-package blackjack
+package blackjack.participant
+
+import blackjack.MatchResult
 
 data class GameParticipantPlayerResult(
     val name: String,

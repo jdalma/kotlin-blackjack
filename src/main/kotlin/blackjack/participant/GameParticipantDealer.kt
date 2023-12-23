@@ -1,4 +1,7 @@
-package blackjack
+package blackjack.participant
+
+import blackjack.card.Card
+import blackjack.MatchResult
 
 class GameParticipantDealer(
     name: String = NAME,

@@ -1,12 +1,12 @@
 package view
 
-import blackjack.Card
-import blackjack.GameBlackjack.Companion.PLAYER_NAME_DELIMITER
-import blackjack.GameParticipant
-import blackjack.GameParticipantDealer
-import blackjack.GameParticipantPlayerResult
-import blackjack.GameParticipantResults
-import blackjack.GameParticipants
+import blackjack.card.Card
+import blackjack.blackjack.GameBlackjack.Companion.PLAYER_NAME_DELIMITER
+import blackjack.participant.GameParticipant
+import blackjack.participant.GameParticipantDealer
+import blackjack.participant.GameParticipantPlayerResult
+import blackjack.participant.GameParticipantResults
+import blackjack.participant.GameParticipants
 import blackjack.MatchResult
 import blackjack.Message
 import blackjack.Message.PRINT_CONTINUE_DEAL
